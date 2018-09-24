@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "d-4-s-sp-fx-react-intro-client-side-solution",
+    "id": "e1e50a97-b36d-4a33-8df4-ff0a82c3a6c4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/d-4-s-sp-fx-react-intro.sppkg"
+  }
+}

@@ -1,0 +1,1 @@
+export { IShoppingItem } from './IShoppingItem';
